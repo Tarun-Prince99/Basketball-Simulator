@@ -1,0 +1,105 @@
+Cleveland Cavaliers
+Jose Calderon
+G
+4.5
+2.1
+1.5
+4
+16
+3
+Jordan Clarkson
+G
+13.9
+2.7
+2.7
+2
+23
+2
+Jeff Green
+F
+10.8
+1.3
+3.2
+3
+23
+4
+George Hill
+G
+10
+2.8
+2.7
+4
+28
+3
+Rodney Hood
+G
+14.7
+1.6
+2.8
+3
+25
+2
+Lebron James
+F
+27.5
+9.1
+8.6
+5
+37
+4
+Larry Nance Jr.
+F
+8.7
+1.2
+6.8
+2
+21
+4
+Kyle Korver
+G
+9.2
+0.4
+1.2
+2
+22
+3
+Kevin Love
+C
+17.6
+1.7
+9.3
+3
+28
+1
+Cedi Osman
+F
+3.9
+0.7
+2
+4
+11
+4
+JR Smith
+G
+8.3
+0.6
+6.6
+1
+28
+4
+Tristan Thompson
+C
+5.8
+0.6
+6.6
+3
+20
+4
+Ante Zizic
+C
+3.7
+0.2
+1.9
+2
+7
+3
